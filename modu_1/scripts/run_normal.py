@@ -1,0 +1,1 @@
+print("Running system in NORMAL mode (no attacks)")

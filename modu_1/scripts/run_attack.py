@@ -1,0 +1,1 @@
+print("Running system in ATTACK mode (with CAN attacks)")

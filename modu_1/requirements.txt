@@ -1,0 +1,42 @@
+# =========================
+# Core Python Libraries
+# =========================
+numpy>=1.19
+pandas>=1.1
+scipy>=1.5
+
+# =========================
+# Machine Learning / Deep Learning
+# =========================
+torch>=1.8
+torchvision>=0.9
+scikit-learn>=0.23
+
+# =========================
+# CARLA Simulator API
+# (Version should match your CARLA installation)
+# =========================
+carla==0.9.8
+
+# =========================
+# Data Processing & Utilities
+# =========================
+tqdm>=4.50
+joblib>=0.16
+
+# =========================
+# Visualization & Plotting
+# =========================
+matplotlib>=3.3
+seaborn>=0.10
+
+# =========================
+# Logging & Configuration
+# =========================
+pyyaml>=5.3
+
+# =========================
+# Optional (Helpful for debugging & analysis)
+# =========================
+ipython
+jupyter
